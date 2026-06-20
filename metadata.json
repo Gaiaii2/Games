@@ -1,0 +1,6 @@
+{
+  "name": "Capy Run",
+  "description": "A fully touch 2D platformer game featuring a Capybara with generated levels.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
